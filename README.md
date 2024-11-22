@@ -21,6 +21,9 @@ The analysis will focus on ride data from the past 12 months, comparing casual r
 * Calculate the total rides for each rider type across the week.
 * Visualize the number of rides by rider type and weekday using a clustered column chart.
 * Analyze the usage patterns to identify any significant trends or differences.
+## Dashboard:
+![Dashboard](https://github.com/user-attachments/assets/93335cd2-55dd-4e7a-9a6a-1d2f2bfc417d)
+
 
 
   
