@@ -10,7 +10,7 @@ The analysis will focus on ride data from the past 12 months, comparing casual r
 ## Data Preparation:
 * The data has been made available by Motivate International Inc.
 * This is public data that can be used to explore how different customer types are using Cyclistic bikes, but due to privacy I won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
-* All data stored in a csv format.
+* All (12 data files) stored in a csv format.
 * Data used in this case study is between November 2023 to November 2024
 
 
