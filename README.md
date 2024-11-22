@@ -11,7 +11,12 @@ The analysis will focus on ride data from the past 12 months, comparing casual r
 * The data has been made available by Motivate International Inc.
 * This is public data that can be used to explore how different customer types are using Cyclistic bikes, but due to privacy I won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 * All (12 data files) stored in a csv format.
-* Data used in this case study is between November 2023 to November 2024
+* Data used in this case study is between November 2023 to November 2024.
+## Process:
+* The data contains nearly 6 millions rows so I prefered to use Microsoft SQL Server to clean and minipulate the data.
+* While importing the data into SQL I found errors about some data types, so I had to change 'start_lat' & 'end_lat' columns from smallint to float, 'start_station_name' & 'end_station_name' columns from nvarchar(50) to nvarchar(max). Also I had to allow null values for all the columns, and it worked.
+* I,ve checked the data and found no null values, that means no missing data.
+* I,ve added a new column 'trip_duration' by calculating the difference between 'started_at' & 'ended_at' dates. 
 
 
 
