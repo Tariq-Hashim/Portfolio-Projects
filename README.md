@@ -35,6 +35,14 @@ Casual riders show a clear preference for weekends, with significantly higher us
 The highest usage for members is observed on Wednesday, followed closely by Tuesday and Thursday. This further supports the hypothesis of weekday commuting or regular usage.
 ### Weekend peak for casuals:
 Casual riders exhibit a distinct peak on Saturday, with Sunday being the second most popular day. This reinforces their preference for weekend usage.
+## Recommendations:
+### Offer Flexible Membership Options:
+Provide a variety of membership plans to accommodate different usage needs and budgets.
+### Offer Weekend-Specific Membership Plans:
+Consider creating flexible membership plans that cater to weekend usage patterns.
+### Educate on Membership Perks:
+Clearly communicate the benefits of membership, such as cost savings, priority access, and rewards.
+
 
 
 
