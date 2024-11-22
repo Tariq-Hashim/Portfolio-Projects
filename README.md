@@ -25,11 +25,16 @@ The analysis will focus on ride data from the past 12 months, comparing casual r
 ![Dashboard](https://github.com/user-attachments/assets/93335cd2-55dd-4e7a-9a6a-1d2f2bfc417d)
 ## Insights:
 The data reveals key insights into the usage patterns of 'member' and 'casual' riders:
-* Members contribute significantly more rides: The total number of rides by members is substantially higher than that of casual riders, indicating that members are the primary users of the service.
-* Consistent member usage: Members exhibit a relatively consistent usage pattern throughout the week, with slightly higher usage on weekdays, possibly suggesting usage for commuting or regular activities.
-* Casual riders prefer weekends: Casual riders show a clear preference for weekends, with significantly higher usage on Saturday and Sunday compared to weekdays, indicating a more leisure-oriented usage pattern.
-* Mid-week peak for members: The highest usage for members is observed on Wednesday, followed closely by Tuesday and Thursday. This further supports the hypothesis of weekday commuting or regular usage.
-* Weekend peak for casuals: Casual riders exhibit a distinct peak on Saturday, with Sunday being the second most popular day. This reinforces their preference for weekend usage.
+### Members contribute significantly more rides: 
+The total number of rides by members is substantially higher than that of casual riders, indicating that members are the primary users of the service.
+### Consistent member usage: 
+Members exhibit a relatively consistent usage pattern throughout the week, with slightly higher usage on weekdays, possibly suggesting usage for commuting or regular activities.
+### Casual riders prefer weekends:
+Casual riders show a clear preference for weekends, with significantly higher usage on Saturday and Sunday compared to weekdays, indicating a more leisure-oriented usage pattern.
+### Mid-week peak for members:
+The highest usage for members is observed on Wednesday, followed closely by Tuesday and Thursday. This further supports the hypothesis of weekday commuting or regular usage.
+### Weekend peak for casuals:
+Casual riders exhibit a distinct peak on Saturday, with Sunday being the second most popular day. This reinforces their preference for weekend usage.
 
 
 
