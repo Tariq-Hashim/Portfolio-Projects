@@ -16,7 +16,14 @@ The analysis will focus on ride data from the past 12 months, comparing casual r
 * The data contains nearly 6 millions rows so I prefered to use Microsoft SQL Server to clean and minipulate the data.
 * While importing the data into SQL I found errors about some data types, so I had to change 'start_lat' & 'end_lat' columns from smallint to float, 'start_station_name' & 'end_station_name' columns from nvarchar(50) to nvarchar(max). Also I had to allow null values for all the columns, and it worked.
 * I,ve checked the data and found no null values, that means no missing data.
-* I,ve added a new column 'trip_duration' by calculating the difference between 'started_at' & 'ended_at' dates. 
+* I,ve added a new column 'trip_duration' by calculating the difference between 'started_at' & 'ended_at' dates.
+## Analysis:
+* Calculate the total rides for each rider type across the week.
+* Visualize the number of rides by rider type and weekday using a clustered column chart.
+* Analyze the usage patterns to identify any significant trends or differences.
+
+
+  
 
 
 
