@@ -25,22 +25,22 @@ The analysis will focus on ride data from the past 12 months, comparing casual r
 ![Dashboard](https://github.com/user-attachments/assets/93335cd2-55dd-4e7a-9a6a-1d2f2bfc417d)
 ## Insights:
 The data reveals key insights into the usage patterns of 'member' and 'casual' riders:
-### Members contribute significantly more rides: 
+### 1-Members contribute significantly more rides: 
 The total number of rides by members is substantially higher than that of casual riders, indicating that members are the primary users of the service.
-### Consistent member usage: 
+### 2-Consistent member usage: 
 Members exhibit a relatively consistent usage pattern throughout the week, with slightly higher usage on weekdays, possibly suggesting usage for commuting or regular activities.
-### Casual riders prefer weekends:
+### 3-Casual riders prefer weekends:
 Casual riders show a clear preference for weekends, with significantly higher usage on Saturday and Sunday compared to weekdays, indicating a more leisure-oriented usage pattern.
-### Mid-week peak for members:
+### 4-Mid-week peak for members:
 The highest usage for members is observed on Wednesday, followed closely by Tuesday and Thursday. This further supports the hypothesis of weekday commuting or regular usage.
-### Weekend peak for casuals:
+### 5-Weekend peak for casuals:
 Casual riders exhibit a distinct peak on Saturday, with Sunday being the second most popular day. This reinforces their preference for weekend usage.
 ## Recommendations:
-### Offer Flexible Membership Options:
+### 1-Offer Flexible Membership Options:
 Provide a variety of membership plans to accommodate different usage needs and budgets.
-### Offer Weekend-Specific Membership Plans:
+### 2-Offer Weekend-Specific Membership Plans:
 Consider creating flexible membership plans that cater to weekend usage patterns.
-### Educate on Membership Perks:
+### 3-Educate on Membership Perks:
 Clearly communicate the benefits of membership, such as cost savings, priority access, and rewards.
 
 
