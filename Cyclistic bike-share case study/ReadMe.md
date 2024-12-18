@@ -1,4 +1,4 @@
-# Solving the Case study: “How does a bike-share navigate speedy success?” using SQL and Google sheets
+# Solving the Case study: “How does a bike-share navigate speedy success?” using SQL Server and Google sheets
 ## Business Task Statement:
 Understanding How Casual Riders and Annual Members Use Cyclistic Bikes
 ## Business Problem:  
